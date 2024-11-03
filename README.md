@@ -9,7 +9,7 @@
 ![t4](./Screenshots/Folders.png)
 -->
 > [!IMPORTANT]
-> This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
+> This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) and [HyDE-cli](https://github.com/HyDE-Project/Hyde-cli) installed...
 
 > [!NOTE]
 > Very Early Stages of Work In Progress
