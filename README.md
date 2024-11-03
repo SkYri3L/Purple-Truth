@@ -14,9 +14,9 @@
 > [!NOTE]
 > Very Early Stages of Work In Progress
 
-> [!TODO]
-> - [] Fix Waybar Text Colours
->   - For Better Readablity (Black To White)
+### Todo
+- [] Fix Waybar Text Colours
+    - For Better Readablity (Black To White)
 
 > [!CAUTION]
 > HEHE THERE IS NOTHING 
