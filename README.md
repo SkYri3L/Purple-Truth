@@ -10,7 +10,7 @@
 > This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
 
 > [!NOTE]
-> Work In Progress...
+> Very Early Stages of Work In Progress (as this is based of Abenezerw's Scarlet Night)...
 
 > [!CAUTION]
 > HEHE THERE IS NOTHING 
@@ -18,7 +18,7 @@
 ## Installation
 
 ```sh
-Hyde theme import https://github.com/SkYri3L/Purple-Truth
+Hyde theme import "Purple Truth" https://github.com/SkYri3L/Purple-Truth
 ```
 
 For More Themes, Check out the [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
