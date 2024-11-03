@@ -1,5 +1,7 @@
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br></div>
 
+
+![t0](./Screenshots/Center.png)
 <!--
 ![t1](./Screenshots/Rofi.png)
 ![t2](./Screenshots/Selection.png)

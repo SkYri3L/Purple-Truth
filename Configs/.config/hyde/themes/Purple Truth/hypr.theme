@@ -30,13 +30,13 @@ group {
 }
 
 decoration {
-    rounding = 10
+    rounding = 18
     drop_shadow = true
 
     blur {
         enabled = yes
         size = 3
-        passes = 4
+        passes = 3
         new_optimizations = on
         ignore_opacity = on
         xray = false
