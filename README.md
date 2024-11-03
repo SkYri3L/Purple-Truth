@@ -10,7 +10,7 @@
 > This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
 
 > [!NOTE]
-> Very Early Stages of Work In Progress (as this is based of Abenezerw's Scarlet Night)...
+> Very Early Stages of Work In Progress (as this is based of Abenezerw's Scarlet Night)
 
 > [!CAUTION]
 > HEHE THERE IS NOTHING 

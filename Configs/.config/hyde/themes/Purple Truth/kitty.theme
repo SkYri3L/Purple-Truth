@@ -23,11 +23,11 @@ inactive_tab_background #0A0A0A
 color0      #1A1A1A      
 color8      #4A4A4A      
 
-# Typing color - bright red
+# Typing color - bright ish Purple
 color1      #B615FB
 color9      #B615FB
 
-# Confirmed typing - deeper red
+# Confirmed typing - deeper Purple
 color2      #D699FF
 color10     #D699FF
 
