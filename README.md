@@ -18,7 +18,7 @@
 ## Installation
 
 ```sh
-Hyde theme import // and choose Scarlet Night
+Hyde theme import https://github.com/SkYri3L/Purple-Truth
 ```
 
 For More Themes, Check out the [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
