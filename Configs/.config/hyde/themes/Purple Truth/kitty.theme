@@ -28,20 +28,20 @@ color1      #B615FB
 color9      #B615FB
 
 # Confirmed typing - deeper red
-color2      #FF9999
-color10     #FF9999
+color2      #D699FF
+color10     #D699FF
 
-color3      #FF6666
-color11     #FF6666
+color3      #8F66FF
+color11     #8F66FF
 
 color4      #A600FF
 color12     #A600FF
 
-color5      #FF4444
-color13     #FF4444
+color5      #6D44FF
+color13     #6D44FF
 
-color6      #FF5555
-color14     #FF5555
+color6      #BB55FF
+color14     #BB55FF
 
 color7      #32CD32
 color15     #32CD32

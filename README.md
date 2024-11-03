@@ -12,7 +12,7 @@
 > Work In Progress...
 
 > [!CAUTION]
-> Just put this here cause i wanted to make it purple blue red. colors of 3 haha.
+> HEHE THERE IS NOTHING 
 
 ## Installation
 
