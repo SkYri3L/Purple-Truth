@@ -4,7 +4,7 @@
 ![t0](./Screenshots/Folder+Term.png)
 ![t1](./Screenshots/Rofi.png)
 ![t2](./Screenshots/SelectImg.png)
-
+![t3](./Screenshots/Logoutmenu.png)
 
 > [!IMPORTANT]
 > This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) and [Hyde-cli](https://github.com/HyDE-Project/Hyde-cli) installed for installation...
