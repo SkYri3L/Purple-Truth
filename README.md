@@ -15,6 +15,7 @@
 ### TODO
 - [ ] Add SDDM Theme
 - [ ] Add Different Font
+- [ ] Improve on GTK + Kvantum theme's 
 - [ ] Stylize Waybar
 
 
