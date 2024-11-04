@@ -12,6 +12,12 @@
 > [!NOTE]
 > Very Early Stages of Work In Progress
 
+### TODO
+- [ ] Add SDDM Theme
+- [ ] Add Different Font
+- [ ] Stylize Waybar
+
+
 > [!CAUTION]
 > HEHE THERE IS NOTHING 
 
