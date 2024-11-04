@@ -22,4 +22,5 @@ Hyde theme import "Purple Truth" https://github.com/SkYri3L/Purple-Truth
 ```
 
 For More Themes, Check out the [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
-https://github.com/abenezerw/Scarlet-Night
+
+Inspiration For This Theme, [Scarlet Night By Abenezerw](https://github.com/abenezerw/Scarlet-Night)
