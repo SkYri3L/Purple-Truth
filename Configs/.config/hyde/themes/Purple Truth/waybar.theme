@@ -1,13 +1,14 @@
 $HOME/.config/waybar/theme.css|${scrDir}/wbarconfgen.sh
 
-@define-color bar-bg rgba(10,10,10,0.8); /* Deep black, fully opaque */
+@define-color bar-bg rgba(10,10,10,0.8);
 
 
-@define-color main-bg rgba(89, 45, 173, 0.85); /* Ferrari red, 80% opacity */
-@define-color main-fg rgba(201, 188, 209, 1); /* Deep black, 80% opacity */
+@define-color main-bg rgba(59,10,151,0.8);
+@define-color main-fg rgba(255,255,255, 1);
 
-@define-color wb-act-bg rgba(141, 92, 226, 0.6); /* Darker red, 60% opacity */
-@define-color wb-act-fg rgba(255,255,255,1); /* Deep black, full opacity */
 
-@define-color wb-hvr-bg rgba(141,92,226,0.2); /* Muted dark red, 20% opacity */
-@define-color wb-hvr-fg rgba(134, 93, 162, 0.7); /* Muted black, 80% opacity */
+@define-color wb-act-bg rgba(141,92,226,0.3);
+@define-color wb-act-fg rgba(255,255,255,1);
+
+@define-color wb-hvr-bg rgba(141,92,226,0.2);
+@define-color wb-hvr-fg rgba(134,93,162,0.7);
