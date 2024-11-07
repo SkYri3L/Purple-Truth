@@ -2,10 +2,12 @@ $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
 $GTK-THEME = Layan-Dark
 $ICON-THEME = Tela-purple
+$CURSOR-THEME = catppuccin-mocha-mauve
 
 exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON-THEME'
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK-THEME'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+exec = Hyde cursor theme '$CURSOR-THEME' size 20
 
 #Set the sddm theme here
 #exec = Hyde sddm set $SDDM-THEME
@@ -30,13 +32,13 @@ group {
 }
 
 decoration {
-    rounding = 18
+    rounding = 10
     drop_shadow = true
-
+    
     blur {
         enabled = yes
-        size = 3
-        passes = 5
+        size = 10
+        passes = 4
         new_optimizations = on
         ignore_opacity = on
         xray = false
