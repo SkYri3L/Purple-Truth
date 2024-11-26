@@ -11,16 +11,13 @@
 
 > [!NOTE]
 > Very Early Stages of Work In Progress
+> Currently unable to add any new features due to time constraints
 
 ### TODO
 - [ ] Add SDDM Theme
 - [ ] Add Different Font
 - [ ] Improve on GTK + Kvantum theme's 
 - [ ] Stylize Waybar
-
-
-> [!CAUTION]
-> HEHE THERE IS NOTHING 
 
 ## Installation
 
